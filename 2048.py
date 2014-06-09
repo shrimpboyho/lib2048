@@ -1,3 +1,4 @@
+class Game():
         self.height = height
         self.width = width
         self.grid = []
