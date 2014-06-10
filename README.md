@@ -3,7 +3,7 @@
 
 ```lib2048``` aims to provide various libraries for implementing the popular game 2048. Below is an image of a barebones 2048 implementation that can be created:
 
-![Stuff](barebones.png "A minimal 2048")
+![Stuff](barebones.PNG "A minimal 2048")
 
 The following is the code used to create it.
 
